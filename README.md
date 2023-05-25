@@ -1,12 +1,11 @@
-# dio-live-dynamodb
-Repositório para o live coding do dia 30/09/2021 sobre o Amazon DynamoDB
+# Para compreender mais sobre DynamoDB
+Repositório com a  atividade para aprender mais sobre Amazon DynamoDB.
 
 ### Serviço utilizado
-  - Amazon DynamoDB
-  - Amazon CLI para execução em linha de comando
+- Amazon DynamoDB
+- Amazon CLI para execução em linha de comando
 
 ### Comandos para execução do experimento:
-
 
 - Criar uma tabela
 
